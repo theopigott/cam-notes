@@ -19,7 +19,7 @@ A selection of revision notes from my studies. I am happy to receive comments an
 - [Vectors & Matrices](https://github.com/theopigott/cam-notes/raw/master/IA/Michaelmas/Vectors%20%26%20Matrices)
    * [Definitions](https://github.com/theopigott/cam-notes/raw/master/IA/Michaelmas/Vectors%20%26%20Matrices/Vectors%20%26%20Matrices%20-%20Definitions.pdf)
    
-### Lent
+### [Lent](https://github.com/theopigott/cam-notes/tree/master/IA/Lent)
 - [Analysis I](https://github.com/theopigott/cam-notes/raw/master/IA/Lent/Analysis%20I)
    * [Definitions](https://github.com/theopigott/cam-notes/raw/master/IA/Lent/Analysis%20I/Analysis%20I%20-%20Definitions.pdf)
    * [Theorems](https://github.com/theopigott/cam-notes/raw/master/IA/Lent/Analysis%20I/Analysis%20I%20-%20Key%20Theorems.pdf)
@@ -34,7 +34,7 @@ A selection of revision notes from my studies. I am happy to receive comments an
 - [Analysis II](https://github.com/theopigott/cam-notes/tree/master/IB/Michaelmas/Analysis%20II)
    * [Definitions](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Analysis%20II/Analysis%20II%20-%20Definitions.pdf)
    * [Theorems](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Analysis%20II/Analysis%20II%20-%20Key%20Theorems.pdf)
-   * [Proofs](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Analysis%20II/Analysis%20II%20Proofs.pdf)(hand-written)
+   * [Proofs](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Analysis%20II/Analysis%20II%20-%20Proofs.pdf) (hand-written)
    
 - [Linear Algebra](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Linear%20Algebra)
    * [Definitions](https://github.com/theopigott/cam-notes/raw/master/IB/Michaelmas/Linear%20Algebra/Linear%20Algebra%20-%20Definitions.pdf)
